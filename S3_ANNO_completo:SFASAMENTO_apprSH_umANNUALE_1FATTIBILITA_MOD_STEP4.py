@@ -8,7 +8,7 @@ from docx import Document
 start_time = time.time()
 
 # Defininsco la soglia unica per lo step 3,4
-single_thr = 0.40
+single_thr = 0.50
 
 ## PERCORSI DEI FILE DI INPUT E OUTPUT ##
 
